@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Humafhd
 - 👀 I’m interested in learning new softwares.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 03332821969..
 - 😄 Pronouns: ...
